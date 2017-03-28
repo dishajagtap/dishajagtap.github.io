@@ -1594,16 +1594,18 @@
 		}
 
 	h2 {
-		font-size: 2em;
+		font-size: 1.8em;
 		letter-spacing: -1px;
 	}
 
 		h2.alt {
-			color: #888;
+			color: #fff;
 		}
 
+
+
 			h2.alt strong {
-				color: #666;
+				color: #fff;
 			}
 
 	h3 {
@@ -1617,6 +1619,41 @@
 		header > p {
 			margin: 1em 0 0 0;
 		}
+
+
+
+  #portfolio p{
+		font-size: 0.8em;
+	}
+
+	#portfolio h2{
+		font-size: 1.5em;
+	}
+
+	#about p
+	{
+		font-size: 0.8em;
+	}
+
+	#about h2{
+		font-size: 1.5em;
+	}
+
+	#contact p{
+		font-size: 0.8em;
+	}
+
+	#contact h2{
+		font-size: 1.5em;
+	}
+
+	#footer li{
+		font-size: 0.7em;
+	}
+
+	#contact a{
+		text-decoration: none;
+	}
 
 	footer {
 		margin: 2em 0 0 0;
@@ -1899,10 +1936,10 @@
 	.button {
 		position: relative;
 		display: inline-block;
-		border-radius: 0.35em;
+		border-radius: 0.5em;
 		color: #fff !important;
 		text-decoration: none;
-		padding: 0.75em 2.5em 0.75em 2.5em;
+		padding: 0.5em 1.5em 0.5em 1.5em;
 		background-color: #8ebebc;
 		border: 0;
 		cursor: pointer;
@@ -2183,7 +2220,7 @@
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/image2.jpg");
 			}
 
 			#main > section.two {
