@@ -87,6 +87,17 @@
 
 	@media screen and (min-width: 961px) and (max-width: 1880px) {
 
+		#primary
+		{
+				width: 50%;
+				float: left;
+		}
+
+		#secondary{
+				width: 50%;
+				float: right;
+		}
+
 		.container.\31 25\25 {
 			width: 100%;
 			max-width: 1500px;
@@ -113,6 +124,17 @@
 
 	@media screen and (min-width: 961px) and (max-width: 1620px) {
 
+		#primary
+		{
+				width: 50%;
+				float: left;
+		}
+
+		#secondary{
+				width: 50%;
+				float: right;
+		}
+
 		.container.\31 25\25 {
 			width: 100%;
 			max-width: 1200px;
@@ -138,6 +160,17 @@
 	}
 
 	@media screen and (min-width: 961px) and (max-width: 1320px) {
+
+		#primary
+		{
+				width: 50%;
+				float: left;
+		}
+
+		#secondary{
+				width: 50%;
+				float: right;
+		}
 
 		.container.\31 25\25 {
 			width: 100%;
@@ -1669,12 +1702,15 @@
 		font-size: 0.8em;
 	}
 
-
-
-	.social-icon{
+	.language-icon{
 		display: inline-block;
 		width: 75px;
 		height: 75px;
+	}
+
+	.os-icon{
+		width: 62px;
+		height: 62px;
 	}
 
 	.cpp{
