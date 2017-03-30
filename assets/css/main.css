@@ -1704,8 +1704,8 @@
 
 	.language-icon{
 		display: inline-block;
-		width: 75px;
-		height: 75px;
+		width: 62px;
+		height: 62px;
 	}
 
 	.os-icon{
@@ -1713,10 +1713,10 @@
 		height: 62px;
 	}
 
-	.cpp{
+	.small{
 		display: inline-block;
-		width: 67px;
-		height: 67px;
+		width: 57px;
+		height: 57px;
 	}
 
 	footer {
