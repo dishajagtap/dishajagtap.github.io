@@ -85,6 +85,42 @@
 		width: 1400px;
 	}
 
+	@media screen and (min-width: 1881px)
+	{
+		#primary
+		{
+				width: 50%;
+				float: left;
+		}
+
+		#secondary{
+				width: 50%;
+				float: right;
+		}
+
+		.container.\31 25\25 {
+			width: 100%;
+			max-width: 1500px;
+			min-width: 1200px;
+		}
+
+		.container.\37 5\25 {
+			width: 900px;
+		}
+
+		.container.\35 0\25 {
+			width: 600px;
+		}
+
+		.container.\32 5\25 {
+			width: 300px;
+		}
+
+		.container {
+			width: 1200px;
+		}
+	}
+
 	@media screen and (min-width: 961px) and (max-width: 1880px) {
 
 		#primary
