@@ -100,8 +100,13 @@
 				margin: 0;
 		}
 
+		#activities #tertiary p{
+			padding: 0 20% 0 20%;
+		}
 
-
+		#experience p{
+			padding: 0 20% 0 20%;
+		}
 
 
 		#icons1 {
@@ -154,8 +159,13 @@
 				float: right;
 		}
 
+		#activities #tertiary p{
+			padding: 0 20% 0 20%;
+		}
 
-
+		#experience p{
+			padding: 0 20% 0 20%;
+		}
 
 		#icons1 {
 			display:inline;
@@ -206,7 +216,13 @@
 				float: right;
 		}
 
+		#activities #tertiary p{
+			padding: 0 20% 0 20%;
+		}
 
+		#experience p{
+			padding: 0 20% 0 20%;
+		}
 
 
 		#icons1 {
@@ -258,6 +274,15 @@
 				float: right;
 		}
 
+		#activities #tertiary p{
+			padding: 0 20% 0 20%;
+		}
+
+		#experience p{
+			padding: 0 20% 0 20%;
+		}
+
+		
 		#icons1 {
 			display:inline;
 			margin:0;
@@ -1807,8 +1832,13 @@
 	}
 
 	#activities #tertiary p{
-		margin-bottom: 2em;
+		margin-bottom: 3em;
 	}
+
+	#jobfirst p{
+		margin-bottom: 4em;
+	}
+
 
 
 	#contact p{
