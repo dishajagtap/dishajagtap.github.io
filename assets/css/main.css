@@ -100,6 +100,10 @@
 				margin: 0;
 		}
 
+
+
+
+
 		#icons1 {
 			display:inline;
 			margin:0;
@@ -111,6 +115,7 @@
 			margin:0;
 			padding:0;
 		}
+
 
 
 		.container.\31 25\25 {
@@ -148,6 +153,9 @@
 				width: 50%;
 				float: right;
 		}
+
+
+
 
 		#icons1 {
 			display:inline;
@@ -197,6 +205,9 @@
 				width: 50%;
 				float: right;
 		}
+
+
+
 
 		#icons1 {
 			display:inline;
@@ -1793,6 +1804,10 @@
 	#activities p{
 		padding: 0 10% 0 10%;
 		font-size: 0.8em;
+	}
+
+	#activities #tertiary p{
+		margin-bottom: 2em;
 	}
 
 
